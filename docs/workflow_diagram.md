@@ -1,3 +1,6 @@
 # Workflow Diagram
 
-Power BI → DAX Studio → CSV → Python → Mermaid → Draw.io
+Power BI → DAX Studio → Metadata CSVs  
+CSV Files → Python Script → model.mmd  
+model.mmd → Draw.io Mermaid → ER Diagram  
+
