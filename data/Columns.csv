@@ -1,0 +1,2 @@
+ID,TableID,Name,DataType,IsKey,IsUnique,IsNullable
+1,1,SampleID,Int64,true,true,false
